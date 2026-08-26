@@ -20,9 +20,7 @@
 
 ## <img src="https://img.icons8.com/fluency/30/user-male-circle.png" width="26" alt="about" /> About Me
 
-I'm **Abdoulkadeer Mohamed Samkunde**, a software developer passionate about building digital products that solve real-world problems.
-I'm currently sharpening my skills through hands-on projects, experimenting with different technologies, and learning by actually building things.
-
+I'm **Abdoulkadeer Mohamed Samkunde**, I currently sharpening my skills through hands-on projects, experimenting with different technologies, and learning by actually building things.
 I believe the fastest way to become a better developer is simple:
 **Learn → Build → Break → Fix → Repeat.**
 
@@ -91,6 +89,12 @@ I believe the fastest way to become a better developer is simple:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEHELL-9924&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=a371f7&currStreakLabel=2ea043" alt="streak stats" />
+</p>
+
+## <img src="https://img.icons8.com/fluency/30/line-chart.png" width="26" alt="activity" /> Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEHELL-9924&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2ea043&line=a371f7&point=ffffff&area=true&area_color=2ea043" width="95%" alt="activity graph" />
 </p>
 
 ## <img src="https://img.icons8.com/fluency/30/quote-left.png" width="26" alt="quote" /> Dev Quote

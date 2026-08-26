@@ -36,7 +36,15 @@ Learn → Build → Break → Fix → Repeat.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🔗 Connect With Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CODEHELL-9924&theme=react-dark&hide_border=true"
+    width="100%"
+    alt="Kadeer Sam GitHub Activity Graph"
+  />
+</p>
 
 <p align="left">
   <a href="https://instagram.com/kadeermoh__" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -56,9 +64,7 @@ Learn → Build → Break → Fix → Repeat.
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODEHELL-9924&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
+
 
 ### 💭 Dev Quote
 

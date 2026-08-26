@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/CODEHELL-9924">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=70&width=762&text=Hello!%20I'm%20Kadeer%20Sam" alt="Hello! I'm Kadeer Sam" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Kadeer%20Sam" alt="Hello! I'm Kadeer Sam" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=34&lines=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver;%22Your%20first%20project%20doesn't%20have%20to%20be%20perfect.%20It%20just%20has%20to%20exist.%22" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver;%22Your%20first%20project%20doesn't%20have%20to%20be%20perfect.%20It%20just%20has%20to%20exist.%22" alt="Typing headlines" />
 </p>
 
 <p align="center">
